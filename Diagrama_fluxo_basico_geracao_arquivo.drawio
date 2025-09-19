@@ -1,0 +1,101 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.1.2 Chrome/138.0.7204.243 Electron/37.4.0 Safari/537.36" version="28.1.2">
+  <diagram name="Página-1" id="ojs5hIaVcaOO5jOrZjOS">
+    <mxGraphModel dx="1699" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DBUwZUXfThH3I6DM1tIH-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-26.759999999999998" y="180" width="800" height="529.75" as="geometry" />
+        </mxCell>
+        <mxCell id="DBUwZUXfThH3I6DM1tIH-41" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="870" width="760" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="DBUwZUXfThH3I6DM1tIH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" parent="1" source="DBUwZUXfThH3I6DM1tIH-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="1027.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DBUwZUXfThH3I6DM1tIH-3" value="Sistema CC" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.web;fillColorStyles=fillColor2,fillColor3,fillColor4;fillColor2=#032d60;fillColor3=#0d9dda;fillColor4=#ffffff;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="190" y="1003.3000000000001" width="60" height="47.400000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="DBUwZUXfThH3I6DM1tIH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" parent="1" source="DBUwZUXfThH3I6DM1tIH-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="1025.85" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DBUwZUXfThH3I6DM1tIH-4" value="Usuaria do sistema &#xa;CC (Contas Correntes)" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.user_female;network2IconXOffset=-0.0011;network2IconYOffset=-0.003;network2IconW=0.8096;network2IconH=0.994;" parent="1" vertex="1">
+          <mxGeometry x="353" y="1001" width="40.48" height="49.7" as="geometry" />
+        </mxCell>
+        <mxCell id="DBUwZUXfThH3I6DM1tIH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" parent="1" edge="1" target="tkeL5Y5j0nW--yCTolZS-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="767.5" as="targetPoint" />
+            <mxPoint x="60" y="1000" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="70" y="1000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DBUwZUXfThH3I6DM1tIH-11" value="&lt;div&gt;&amp;nbsp;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DBUwZUXfThH3I6DM1tIH-10" vertex="1" connectable="0">
+          <mxGeometry x="0.0338" y="-6" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DBUwZUXfThH3I6DM1tIH-5" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;BD - SQL Server" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="40" y="1000" width="60" height="63.3" as="geometry" />
+        </mxCell>
+        <mxCell id="DBUwZUXfThH3I6DM1tIH-12" value="&lt;h2&gt;AWS&lt;/h2&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="220" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tkeL5Y5j0nW--yCTolZS-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DBUwZUXfThH3I6DM1tIH-21" target="tkeL5Y5j0nW--yCTolZS-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DBUwZUXfThH3I6DM1tIH-21" value="RDS" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.rds;fillColor=#2E73B8;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="393.48" y="460" width="72" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="tkeL5Y5j0nW--yCTolZS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" edge="1" parent="1" source="tkeL5Y5j0nW--yCTolZS-1" target="tkeL5Y5j0nW--yCTolZS-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tkeL5Y5j0nW--yCTolZS-1" value="Amazon S3" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
+          <mxGeometry x="30" y="460" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tkeL5Y5j0nW--yCTolZS-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" edge="1" parent="1" source="tkeL5Y5j0nW--yCTolZS-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tkeL5Y5j0nW--yCTolZS-3" value="Lambda" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.lambda;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;strokeColor2=#292929;strokeColor3=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="220" y="456.44" width="90" height="107.12" as="geometry" />
+        </mxCell>
+        <mxCell id="tkeL5Y5j0nW--yCTolZS-4" value="ETL (Exportaçao de arquivos de Movimentos, Clientes e contas" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="10" y="780" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tkeL5Y5j0nW--yCTolZS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" edge="1" parent="1" source="tkeL5Y5j0nW--yCTolZS-10" target="tkeL5Y5j0nW--yCTolZS-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="450" />
+              <mxPoint x="630" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tkeL5Y5j0nW--yCTolZS-10" value="Geração Arquivo Bacen (parquet) de Movimentos de contas dos clientes para envio do Banco Central" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="530" y="470.5" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tkeL5Y5j0nW--yCTolZS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" edge="1" parent="1" source="tkeL5Y5j0nW--yCTolZS-11" target="tkeL5Y5j0nW--yCTolZS-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tkeL5Y5j0nW--yCTolZS-11" value="Lambda" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.lambda;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;strokeColor2=#292929;strokeColor3=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="580" y="250" width="100.61" height="119.75" as="geometry" />
+        </mxCell>
+        <mxCell id="tkeL5Y5j0nW--yCTolZS-12" value="Banco Central" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="234" y="279.88" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tkeL5Y5j0nW--yCTolZS-22" value="&lt;h1&gt;&lt;span&gt;Fluxo Geração Arquivo de Movimetações Mensais para o Banco Central&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=light-dark(#000000,#EDEDED);labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-65" y="38" width="840" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tkeL5Y5j0nW--yCTolZS-23" value="&lt;h1&gt;&lt;span&gt;On Primise&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=light-dark(#000000,#EDEDED);labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="249" y="880" width="150" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
